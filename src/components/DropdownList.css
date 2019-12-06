@@ -1,0 +1,13 @@
+.type-select {
+  width: 60%;
+}
+
+.unit-select {
+  width: 30%;
+  /* margin: 0% 1% 0% 1%; */
+}
+
+.number-input {
+  width: 30%;
+  /* margin: 0% 1% 0% 1%; */
+}
